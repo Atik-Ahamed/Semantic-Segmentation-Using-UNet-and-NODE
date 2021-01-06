@@ -21,7 +21,8 @@
 
 > This paper's proposed model. That uses a ODE block in the U-Net architecture. All CNN kernel size is 3X3 and depths are shown for each of the layer.
 
-![Proposed Architecture](https://github.com/Atik-Ahamed/Semantic-Segmentation-Using-UNet-and-NODE/blob/main/unetand_node.PNG=300px)
+<img src="https://github.com/Atik-Ahamed/Semantic-Segmentation-Using-UNet-and-NODE/blob/main/unetand_node.PNG" width="600px" height="250px" />
+
 ## Citation
 ```bibtex
 @INPROCEEDINGS{9230884,
