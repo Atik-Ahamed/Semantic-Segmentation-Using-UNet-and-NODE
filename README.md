@@ -18,7 +18,10 @@
  - [**Paper**](https://www.researchgate.net/publication/345804338_Semantic_Segmentation_of_Self-Supervised_Dataset_and_Medical_Images_Using_Combination_of_U-Net_and_Neural_Ordinary_Differential_Equations)
 
 ### Proposed Architecture
-![This paper's proposed model. That uses a ODE block in the U-Net architecture. All CNN kernel size is 3X3 and depths are shown for each of the layer.](https://github.com/Atik-Ahamed/Semantic-Segmentation-Using-UNet-and-NODE/blob/main/unetand_node.PNG)
+
+> This paper's proposed model. That uses a ODE block in the U-Net architecture. All CNN kernel size is 3X3 and depths are shown for each of the layer.
+
+![Proposed Architecture](https://github.com/Atik-Ahamed/Semantic-Segmentation-Using-UNet-and-NODE/blob/main/unetand_node.PNG = 300px )
 ## Citation
 ```bibtex
 @INPROCEEDINGS{9230884,
