@@ -21,7 +21,23 @@
 
 > This paper's proposed model. That uses a ODE block in the U-Net architecture. All CNN kernel size is 3X3 and depths are shown for each of the layer.
 
-<img src="https://github.com/Atik-Ahamed/Semantic-Segmentation-Using-UNet-and-NODE/blob/main/unetand_node.PNG" width="500px" height="300px" />
+<img  src="https://github.com/Atik-Ahamed/Semantic-Segmentation-Using-UNet-and-NODE/blob/main/unetand_node.PNG"  width="550px"  height="350px"/>
+
+### Result of Nuclei Segmentation
+
+> The first and second column represents input images and predicted
+> masks respectively, where  each  row  belongs  to  a individual
+> observation.
+
+<img  src="https://github.com/Atik-Ahamed/Semantic-Segmentation-Using-UNet-and-NODE/blob/main/nuclei_segmentation_result.png"  width="400px"  height="400px"/>
+
+### Result of Brain MRI
+
+> The first, second and third column represents input images, target
+> masks and predicted masks respectively, where  each  row  belongs  to 
+> a individual observation.
+
+<img  src="https://github.com/Atik-Ahamed/Semantic-Segmentation-Using-UNet-and-NODE/blob/main/brain_mri_output.png"  width="400px"  height="400px"/>
 
 ## Citation
 ```bibtex
